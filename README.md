@@ -4,6 +4,7 @@ Google Mobile Services (GMS) &amp; Google Play Services &amp; GMS Core
 
 # google-play-services
 
+https://www.apkmirror.com/apk/google-inc/google-play-services/
 
 https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-11-3-02-release/
 
@@ -16,6 +17,11 @@ https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-servic
 3. `0` for universal
 
 > 440
+
+https://www.apkmirror.com/apk/google-inc/google-play-services/
+
+https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-11-3-02-release/google-play-services-11-3-02-440-161239932-android-apk-download/
+
 
 
 ```md
