@@ -7,6 +7,15 @@ Google Mobile Services (GMS) &amp; Google Play Services &amp; GMS Core
 
 https://www.apkmirror.com/apk/google-inc/google-play-services/google-play-services-11-3-02-release/
 
+## XYZ
+
+> look at the 3-digit sequence (let's use XYZ) in the parentheses:
+
+1. `4` for Android 5.0 and 5.1 before Play Services v8, Android >= 6.0 after
+2. `4` for arm64-v8a
+3. `0` for universal
+
+> 440
 
 
 ```md
@@ -47,6 +56,8 @@ Examples:
 438 for Android 6.0+ armeabi-v7a CPU 480 DPI device
 876 for Android TV x86 CPU 320 DPI device
 ```
+
+
 
 # GmsCore
 
