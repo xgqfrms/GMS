@@ -9,3 +9,7 @@ https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-ins
 
 
 
+# 4.4.0
+
+> 2017.11.16
+
