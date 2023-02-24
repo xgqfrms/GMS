@@ -13,3 +13,15 @@
 
 链接: https://pan.baidu.com/s/1xuXlNrK52HetAFqrC35C_Q?pwd=s4bk 
 提取码: s4bk
+
+
+## macOS 应用多开 Google Chrome 应用分身 All In One
+
+https://www.cnblogs.com/xgqfrms/p/16993756.html
+
+> macOS 
+
+https://github.com/xgqfrms/GMS/blob/master/Chrome/macOS/Custom-Chrome.app.zip
+
+https://github.com/xgqfrms/GMS/raw/master/Chrome/macOS/Custom-Chrome.app.zip
+
